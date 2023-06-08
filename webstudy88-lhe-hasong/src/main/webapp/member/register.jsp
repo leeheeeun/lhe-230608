@@ -10,24 +10,13 @@
 <script src="https://cdn.jsdelivr.net/npm/jquery@3.6.4/dist/jquery.slim.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/js/bootstrap.bundle.min.js"></script>
-<title>index</title>
+<title>회원등록</title>
 </head>
 <body>
 <div class="container pt-3">
-test1 lhe
-
-test222
-
-충돌충돌충돌충돌
-여기는 혼자입니다~~ 자유에요
-
-d오오오오~~
-
-충돌2충돌2충돌2
-=======
-
-오늘 상체
-충돌고쳐봅시다
+<form method="post" action="">
+	<input type="text" name="id" placeholder="아이디" required="required">
+</form>
 </div>
 </body>
 </html>

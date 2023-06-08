@@ -31,6 +31,8 @@ d오오오오~~
 충돌고쳐봅시다
 오늘 하체
 >>>>>>> branch 'main' of https://github.com/leeheeeun/lhe-230608.git
+
+프로젝트 xml을 받아봤어요
 </div>
 </body>
 </html>

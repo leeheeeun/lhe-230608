@@ -24,10 +24,13 @@ test222
 d오오오오~~
 
 충돌2충돌2충돌2
-=======
+
+충돌이 자꾸안나네 
 
 오늘 상체
 충돌고쳐봅시다
+오늘 하체
+>>>>>>> branch 'main' of https://github.com/leeheeeun/lhe-230608.git
 </div>
 </body>
 </html>

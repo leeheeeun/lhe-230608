@@ -1,15 +1,20 @@
 package org.kosta.myproject.model;
 
 public class memberVO {
+<<<<<<< HEAD
 	private String id;
 	private String member;
+=======
+	private String changeId;
+>>>>>>> branch 'main' of https://github.com/leeheeeun/lhe-230608.git
 
-	public String getId() {
-		return id;
+	public String getChangeId() {
+		return changeId;
 	}
 
-	public void setId(String id) {
-		this.id = id;
+	public void setChangeId(String changeId) {
+		this.changeId = changeId;
 	}
+	
 	
 }

@@ -29,7 +29,13 @@ d오오오오~~
 오늘 상체
 충돌고쳐봅시다
 오늘 하체
+<<<<<<< HEAD
 프로젝트 xml을 받아봤어요
+=======
+>>>>>>> branch 'main' of https://github.com/leeheeeun/lhe-230608.git
+
+프로젝트 xml을 받아봤어요
+>>>>>>> branch 'main' of https://github.com/leeheeeun/lhe-230608.git
 </div>
 </body>
 </html>

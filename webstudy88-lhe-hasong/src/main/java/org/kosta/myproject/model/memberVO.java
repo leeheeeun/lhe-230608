@@ -1,10 +1,8 @@
 package org.kosta.myproject.model;
 
 public class memberVO {
-
 	private String id;
 	private String member;
-
 	private String changeId;
 
 
